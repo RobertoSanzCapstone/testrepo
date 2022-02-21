@@ -1,5 +1,5 @@
-# testrepo
+# Capstone Project by Roberto Sanz
 
-## Editing the file
+## IBM Course: DS and ML Capstone Project
 
-It's a mardown file in this repository
+In this folder you will find the Findings Presentation in PDF format
